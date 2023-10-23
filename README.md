@@ -17,9 +17,13 @@
 - LinkedIn: [Syed Asad Jamil](https://www.linkedin.com/in/syed-asad-jamil-41a669261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B180xZ18hRKuPH1pulTjiSg%3D%3D)
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Asad-Zaidi" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Asad-Zaidi&count_private=true&theme=algolia&border_radius=20" alt="Asad-Zaidi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Zaidi&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Asad-Zaidi" /></p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Asad-Zaidi&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-Zaidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
