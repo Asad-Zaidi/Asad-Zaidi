@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Porfolio-Boostrap](https://github.com/Asad-Zaidi/Portfolio-Bootstrap.git)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux, Node.JS, MongoDB**
 
 - 💬 Ask me about **HTML, CSS**
 
