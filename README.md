@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm SYED ASAD JAMIL</h1>
+<h1 align="center">
+🍁🍁 𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓨𝓔𝓓 𝓐𝓢𝓐𝓓 𝓙𝓐𝓜𝓘𝓛 🍁🍁
+
+</h1>
+
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&random=false&width=630&height=85&lines=Welcome+to+ASAD's+GitHub!;A+Passionate+front-end+Developer;Currently+learning+Web+Technologies" alt="Typing SVG" /></a>
