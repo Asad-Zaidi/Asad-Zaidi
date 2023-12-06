@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SYED ASAD JAMIL</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&random=false&width=500&height=85&lines=Welcome+to+ASAD's+GitHub!;A+passionate+front-end+developer" alt="Typing SVG" /></a>
-<div/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&random=false&width=550&height=85&lines=Welcome+to+ASAD's+GitHub!;A+passionate+front-end+developer" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 I’m currently working on [Porfolio-Boostrap](https://github.com/Asad-Zaidi/Portfolio-Bootstrap.git)
 
