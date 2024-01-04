@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&random=false&width=630&height=85&lines=Welcome+to+ASAD's+GitHub!;A+Passionate+Front-End+Developer;" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently working on [Exam](https://en.wikipedia.org/wiki/Exam)
+- 🔭 I’m currently working on [Exams](https://en.wikipedia.org/wiki/Exam)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux, Node.JS, MongoDB**
 
