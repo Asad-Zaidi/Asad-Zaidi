@@ -28,9 +28,11 @@
 
 <br clear="both">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asad-Zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="Asad-Zaidi" /> </p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Asad-Zaidi&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+ <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&show_icons=true&locale=en&theme=neon&height="150"" alt="Asad-Zaidi" /></p>
+  <img src="https://streak-stats.demolab.com?user=Asad-Zaidi&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Zaidi&layout=compact&theme=neon" alt=Asad-Zaidi />
 </div>
 
