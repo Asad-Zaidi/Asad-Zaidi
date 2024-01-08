@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [EXAMS](https://en.wikipedia.org/wiki/Exam)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux, Node.JS, MongoDB**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux-Toolkit, Node.JS, MongoDB**
 
 - 💬 Ask me about **HTML, CSS**
 
