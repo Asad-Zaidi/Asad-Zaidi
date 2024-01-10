@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&random=false&width=630&height=85&lines=Welcome+to+ASAD's+GitHub!;A+Passionate+Front-End+Developer;" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently working on [EXAMS]() of [Computer Networks]()
+- 🔭 I’m currently working on [EXAMS]() of [Computer Networks](https://en.wikipedia.org/wiki/Computer_network)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux-Toolkit, Node.JS, MongoDB**
 
