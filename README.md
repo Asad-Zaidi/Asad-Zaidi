@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [EXAM](https://en.wikipedia.org/wiki/Exam) of [Computer Networks](https://en.wikipedia.org/wiki/Computer_network)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux-Toolkit, Node.JS, MongoDB**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack**
 
 - 💬 Ask me about **HTML, CSS**
 
