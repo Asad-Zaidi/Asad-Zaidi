@@ -18,9 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-</p>
-
+<p align="left"></p>
 - GitHub: [**Asad-Zaidi**](https://github.com/Asad-Zaidi)
 - LinkedIn: [**Syed Asad Jamil**](https://www.linkedin.com/in/syed-asad-jamil-41a669261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B180xZ18hRKuPH1pulTjiSg%3D%3D)
 - Instagram: **_asad_zaidi**
