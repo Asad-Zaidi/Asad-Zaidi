@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [EXAM](https://en.wikipedia.org/wiki/Exam) of [Computer Networks](https://en.wikipedia.org/wiki/Computer_network)
+- 🔭 I’m currently working on [EXAM]() of [Computer Networks](https://en.wikipedia.org/wiki/Computer_network)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack**
 
