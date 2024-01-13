@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [EXAM]() of [Database System](https://www.javatpoint.com/what-is-database)
+- 🔭 I’m currently working on [EXAM](https://en.wikipedia.org/wiki/Exam) of [Database System](https://www.javatpoint.com/what-is-database)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack**
 
