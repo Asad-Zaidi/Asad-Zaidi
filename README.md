@@ -35,10 +35,11 @@
 
 <div align="center">
  
- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&show_icons=true&locale=en&theme=neon&height="150"" alt="Asad-Zaidi"/>
- </p>
+ <p>
+  &nbsp;
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad-Zaidi&show_icons=true&locale=en&theme=neon&height="150"" alt="Asad-Zaidi"/>
  
-  <img src="https://streak-stats.demolab.com?user=Asad-Zaidi&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Asad-Zaidi&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Zaidi&layout=compact&theme=neon" alt=Asad-Zaidi />
 </div>
 
