@@ -31,7 +31,9 @@
 
 <br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asad-Zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="Asad-Zaidi" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=Asad-Zaidi&label=Profile%20views&color=0e75b6&style=flat" height="30" alt="Asad-Zaidi" />
+</p>
 
 <div align="center">
  
