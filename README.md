@@ -1,4 +1,3 @@
- 
  <h1 align="center">
 🍁🍁 𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓨𝓔𝓓 𝓐𝓢𝓐𝓓 𝓙𝓐𝓜𝓘𝓛 🍁🍁
 </h1>
@@ -12,7 +11,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [EXAM](https://en.wikipedia.org/wiki/Exam) of [Database System](https://www.javatpoint.com/what-is-database)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack**
 
