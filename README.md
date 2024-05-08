@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [**Hand Gesture Recognition**](https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer)
+- 🔭 I’m currently working on [**Hand Gesture Recognition**](https://github.com/Asad-Zaidi/Gesture-Recognition)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack, Python, MAD**
 
