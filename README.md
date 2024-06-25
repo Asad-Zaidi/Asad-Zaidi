@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [**Hand Gesture Recognition**](https://github.com/Asad-Zaidi/Gesture-Recognition)
+- 🔭 I’m currently working on [**React-Native Music App**](https://github.com/Asad-Zaidi/PlayMusic)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack, Python, MAD**
 
