@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- 🔭 I’m currently working on [**React-Native Music App**](https://github.com/Asad-Zaidi/PlayMusic)
+- 🔭 I’m currently working on [**React-Native Music App**](https://github.com/Asad-Zaidi/PlayMusic) & [**React-Native Music App**](https://github.com/Asad-Zaidi/Flutter-Weather-App).
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MERN-Stack, Python, MAD**
 
